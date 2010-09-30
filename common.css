@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica, Arial;
+  margin: 30px;
+}
+
+h1 {
+  font-size: 64px;
+  margin: 0 0 20px 0;
+}
+
+h2 {
+  font-family: Georgia;
+  font-style: italic;
+  color: #ccc;
+  font-size: 17px;
+  margin: 20px 0 50px 0;
+}
+
+a {
+  color: #999;
+}
+
+a:hover {
+  color: #FF7C82;
+}
+
+.description, .links, .projects {
+  margin: 40px 0;
+}
+
+li {
+  margin: 10px 0;
+}
