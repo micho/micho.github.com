@@ -1,0 +1,8 @@
+https://ellipsoid-vibraphone-h3bs.squarespace.com -w -r5 -%e2 -A250000 -c10 -%k -s0 -%v -v -* +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js +*.woff2 +*.woff +*.ttf -ad.doubleclick.net/* -%squarespace.com/api/* -%squarespace.com/commerce/* -%u -n -T30 -R3 -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+File generated automatically on Fri, 10 Jan 2025 09:07:58, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
